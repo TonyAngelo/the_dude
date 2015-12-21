@@ -1,0 +1,108 @@
+TheDudePhrasesIntent	can i have a quote
+TheDudePhrasesIntent	give me a quote
+TheDudePhrasesIntent	give me another quote
+TheDudePhrasesIntent	give me another one
+TheDudePhrasesIntent	another one
+TheDudePhrasesIntent	a quote
+TheDudePhrasesIntent	can i have a phrase
+TheDudePhrasesIntent	give me a phrase
+TheDudePhrasesIntent	a phrase
+
+TheDudeGotTheMoneyIntent	so Dieter has the money
+TheDudeGotTheMoneyIntent	has the money
+TheDudeGotTheMoneyIntent	so Dieter has money
+TheDudeGotTheMoneyIntent	Dieter has the money
+TheDudeGotTheMoneyIntent	got the money
+TheDudeGotTheMoneyIntent	Dieter money
+TheDudeGotTheMoneyIntent	so name has the money
+TheDudeGotTheMoneyIntent	who has the money
+TheDudeGotTheMoneyIntent	who money
+
+TheDudeHateTheEaglesIntent	i pull over and kick your ass out
+TheDudeHateTheEaglesIntent	pull over and kick you out
+TheDudeHateTheEaglesIntent	kick your ass out
+TheDudeHateTheEaglesIntent	i'll pull over
+TheDudeHateTheEaglesIntent	ass out
+TheDudeHateTheEaglesIntent	over and kick your ass out
+TheDudeHateTheEaglesIntent	pull and kick your ass out
+TheDudeHateTheEaglesIntent	i pull over and kick you out
+TheDudeHateTheEaglesIntent	i'll pull over and kick your ass out
+TheDudeHateTheEaglesIntent	i'll pull over and kick you out
+TheDudeHateTheEaglesIntent	i'll pull over kick you out
+TheDudeHateTheEaglesIntent	i'll pull over and kick you
+
+TheDudePhonesRingingIntent	phone's ringing dude
+TheDudePhonesRingingIntent	phone is ringing dude
+TheDudePhonesRingingIntent	your phone's ringing dude
+TheDudePhonesRingingIntent	your phone is ringing dude
+TheDudePhonesRingingIntent	phone's ringing
+TheDudePhonesRingingIntent	phone is ringing
+TheDudePhonesRingingIntent	your phone's ringing
+TheDudePhonesRingingIntent	your phone is ringing
+TheDudePhonesRingingIntent	phone ringing
+
+TheDudeWalterVietnamIntent	i'm sorry dude goddamn wind
+TheDudeWalterVietnamIntent	shit i'm sorry dude goddamn wind
+TheDudeWalterVietnamIntent	i'm sorry dude wind
+TheDudeWalterVietnamIntent	i'm sorry dude
+TheDudeWalterVietnamIntent	goddamn wind
+TheDudeWalterVietnamIntent	sorry dude
+TheDudeWalterVietnamIntent	shit dude goddamn wind
+TheDudeWalterVietnamIntent	shit goddamn wind
+TheDudeWalterVietnamIntent	shit i'm sorry dude
+TheDudeWalterVietnamIntent	shit i'm sorry
+TheDudeWalterVietnamIntent	shit sorry dude
+
+TheDudeFixesTheCableIntent	you can imagine where it goes from here
+TheDudeFixesTheCableIntent	you can only imagine where it goes from here
+TheDudeFixesTheCableIntent	you can imagine where it goes
+TheDudeFixesTheCableIntent	imagine where it goes from here
+TheDudeFixesTheCableIntent	where it goes from here
+TheDudeFixesTheCableIntent	imagine where it goes
+TheDudeFixesTheCableIntent	you can guess where it goes from here
+TheDudeFixesTheCableIntent	you can only guess where it goes from here
+TheDudeFixesTheCableIntent	guess where it goes from here
+TheDudeFixesTheCableIntent	you can guess
+
+TheDudeEmployedIntent	are you employed sir
+TheDudeEmployedIntent	are you employed
+TheDudeEmployedIntent	you employed
+TheDudeEmployedIntent	you employed sir
+TheDudeEmployedIntent	employed
+TheDudeEmployedIntent	dude are you employed sir
+TheDudeEmployedIntent	dude are you employed
+
+TheDudeDressedLikeThatIntent	you don't go out looking for a job dressed like that on a weekday
+TheDudeDressedLikeThatIntent	dressed like that on a weekday
+TheDudeDressedLikeThatIntent	you don't go out looking for a job
+TheDudeDressedLikeThatIntent	you don't go out looking for a job dressed like that
+TheDudeDressedLikeThatIntent	on a weekday
+TheDudeDressedLikeThatIntent	you don't go out
+TheDudeDressedLikeThatIntent	you don't go out looking dressed like that
+TheDudeDressedLikeThatIntent	you don't go looking for a job dressed like that
+TheDudeDressedLikeThatIntent	you don't go dressed like that on a weekday
+TheDudeDressedLikeThatIntent	looking for a job dressed like that on a weekday
+TheDudeDressedLikeThatIntent	looking for a job dressed like that
+
+TheDudeIfYouDontMindIntent	well i do work sir so if you don't mind
+TheDudeIfYouDontMindIntent	i do work so if you don't mind
+TheDudeIfYouDontMindIntent	i work if you don't mind
+TheDudeIfYouDontMindIntent	well i do work sir
+TheDudeIfYouDontMindIntent	well i do work sir if you don't mind
+TheDudeIfYouDontMindIntent	well i do work so if you don't mind
+TheDudeIfYouDontMindIntent	well i work so if you don't mind
+TheDudeIfYouDontMindIntent	i work so if you don't mind
+
+TheDudeAmIWrongIntent	am I wrong
+TheDudeAmIWrongIntent	I wrong
+TheDudeAmIWrongIntent	am wrong
+TheDudeAmIWrongIntent	wrong
+TheDudeAmIWrongIntent	so I am wrong
+TheDudeAmIWrongIntent	I'm not wrong
+
+TheDudeRecreationIntent	what do you do for recreation
+TheDudeRecreationIntent	do you do for recreation
+TheDudeRecreationIntent	what do for recreation
+TheDudeRecreationIntent	what do you recreation
+TheDudeRecreationIntent	recreation
+TheDudeRecreationIntent	what do you do
