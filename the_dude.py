@@ -1,10 +1,5 @@
 """
-This sample demonstrates a simple skill built with the Amazon Alexa Skills Kit.
-The Intent Schema, Custom Slots, and Sample Utterances for this skill, as well
-as testing instructions are located at http://amzn.to/1LzFrj6
-
-For additional samples, visit the Alexa Skills Kit Getting Started guide at
-http://amzn.to/1LGWsLG
+An Amazon Alexa Skill for conversing with The Dude.
 """
 
 from __future__ import print_function
@@ -180,9 +175,8 @@ def on_intent(intent_request, session):
 
 
 def on_session_ended(session_ended_request, session):
-    print("on_session_ended requestId=" + session_ended_request['requestId'] +
-          ", sessionId=" + session['sessionId'])
     # add cleanup logic here
+    pass
 
 
 # --------------- Functions that control the skill's behavior ------------------

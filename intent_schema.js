@@ -1,22 +1,37 @@
 {
   "intents": [
     {
-      "intent": "CableKeyIntent",
-      "slots": [
-        {
-          "name": "CableKey",
-          "type": "LIST_OF_CABLE_KEYS"
-        }
-      ]
+      "intent": "TheDudePhrasesIntent"
     },
     {
-      "intent": "CableChannelIntent",
-      "slots": [
-        {
-          "name": "CableChannel",
-          "type": "LIST_OF_CHANNELS"
-        }
-      ]
+      "intent": "TheDudeFixesTheCableIntent"
+    },
+    {
+      "intent": "TheDudeEmployedIntent"
+    },
+    {
+      "intent": "TheDudeDressedLikeThatIntent"
+    },
+    {
+      "intent": "TheDudeIfYouDontMindIntent"
+    },
+    {
+      "intent": "TheDudeAmIWrongIntent"
+    },
+    {
+      "intent": "TheDudeRecreationIntent"
+    },
+    {
+      "intent": "TheDudeWalterVietnamIntent"
+    },
+    {
+      "intent": "TheDudeHateTheEaglesIntent"
+    },
+    {
+      "intent": "TheDudePhonesRingingIntent"
+    },
+    {
+      "intent": "TheDudeGotTheMoneyIntent"
     },
     {
       "intent": "AMAZON.HelpIntent"
